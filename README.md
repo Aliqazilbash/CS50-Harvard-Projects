@@ -1,7 +1,8 @@
 
-#CERTIFICATE
+# CERTIFICATE
 
-[CS50x.pdf.pdf](https://github.com/Aliqazilbash/CS50-Harvard-Projects/files/12522865/CS50x.pdf.pdf)
+[![CS50 Certificate](path/to/CS50x.pdf.pdf)](path/to/CS50x.pdf.pdf)
+
 
 # CS50-Harvard-Projects
 
