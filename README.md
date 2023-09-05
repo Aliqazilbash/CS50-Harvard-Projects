@@ -1,7 +1,7 @@
 
 # CERTIFICATE
 
-[![CS50 Certificate](path/to/CS50x.pdf.pdf)](path/to/CS50x.pdf.pdf)
+[![CS50 Certificate](path/to/CS50x.pdf.pdf)]
 
 
 # CS50-Harvard-Projects
