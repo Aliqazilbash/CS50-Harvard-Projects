@@ -1,3 +1,8 @@
+
+#CERTIFICATE
+
+[CS50x.pdf.pdf](https://github.com/Aliqazilbash/CS50-Harvard-Projects/files/12522865/CS50x.pdf.pdf)
+
 # CS50-Harvard-Projects
 
 Welcome to my CS50-Harvard-Projects repository! This repository showcases my journey through Harvard University's CS50 course, where I explored various computer science topics and completed several exciting projects.
