@@ -1,0 +1,16 @@
+1. Prompt the user for a positive integer between 1 and 8, inclusive.
+2. Repeat until a valid input is received:
+   a. Read the user's input.
+   b. If the input is not an integer or not within the range [1, 8], display an error message and go back to step 1.
+3. Initialize a variable `height` with the user's input.
+
+4. For each row in the range from 1 to `height + 1`, do the following:
+   a. Calculate the number of spaces needed on this row: `spaces = height - row`.
+   b. Calculate the number of hashes needed on this row: `hashes = row`.
+   c. Print the spaces and hashes accordingly:
+      i.  Print `spaces` spaces.
+      ii. Print `hashes` hash characters.
+   d. Move to the next line to start the next row.
+
+5. End the program.
+
