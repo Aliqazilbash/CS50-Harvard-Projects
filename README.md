@@ -48,7 +48,7 @@ Here are some of the exciting projects I completed during the CS50 course:
 
 5. **Flask Blog (Week 9)** - Created a simple blog website using the Flask web framework, allowing users to write and publish blog posts.
 
-6. **Ethical Tech Report (Week 10)** - Wrote a comprehensive report discussing ethical issues related to emerging technologies like AI and surveillance.
+6. **Ethical Tech Report (Week 11)** - Wrote a comprehensive report discussing ethical issues related to emerging technologies like AI and surveillance.
 
 Feel free to explore this repository to find more details about each project. If you have any questions or feedback, please don't hesitate to reach out.
 
