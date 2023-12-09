@@ -46,7 +46,7 @@ Here are some of the exciting projects I completed during the CS50 course:
 
 4. **Web Portfolio (Week 8)** - Designed and developed a personal web portfolio using HTML, CSS, and JavaScript to showcase my projects and skills.
 
-5. **Flask Blog (Week 9)** - Created a simple blog website using the Flask web framework, allowing users to write and publish blog posts.
+5. **Flask Blog (Week 9)** - Created a simple website to manage stock portfolios using the Flask web framework, allowing users to "buy" and "sell" the stocks.
 
 6. **Ethical Tech Report (Week 11)** - Wrote a comprehensive report discussing ethical issues related to emerging technologies like AI and surveillance.
 
