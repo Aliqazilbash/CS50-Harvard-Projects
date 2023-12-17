@@ -1,7 +1,7 @@
 
 # CERTIFICATE
 
-[!(CS50x.pdf.pdf)]
+[!(CS50x)]PLACE LINK HERE
 
 
 # CS50-Harvard-Projects
