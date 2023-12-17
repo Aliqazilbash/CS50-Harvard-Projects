@@ -1,7 +1,7 @@
 
 # CERTIFICATE
 
-[![CS50 Certificate](CS50x.pdf.pdf)]
+[!(CS50x.pdf.pdf)]
 
 
 # CS50-Harvard-Projects
