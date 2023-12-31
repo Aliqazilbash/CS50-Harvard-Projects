@@ -1,7 +1,7 @@
 
 # CERTIFICATE
 
-[!(CS50x)]PLACE LINK HERE
+[!(CS50x)][PLACE LINK HERE](https://certificates.cs50.io/f74c9f72-8240-4c95-9b9b-7b8ac9ce529e.pdf?size=letter)
 
 
 # CS50-Harvard-Projects
