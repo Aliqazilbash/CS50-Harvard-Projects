@@ -1,7 +1,7 @@
 
 # CERTIFICATE
 
-[CS50 Certificate.pdf][(https://github.com/Aliqazilbash/CS50-Harvard-Projects/files/13801009/CS50.Certificate.pdf)](https://cs50.harvard.edu/certificates/f74c9f72-8240-4c95-9b9b-7b8ac9ce529e)
+[CS50 Certificate.pdf](https://cs50.harvard.edu/certificates/f74c9f72-8240-4c95-9b9b-7b8ac9ce529e)
 
 
 
